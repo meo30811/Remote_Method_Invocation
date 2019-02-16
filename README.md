@@ -14,3 +14,5 @@ Steps to upload projects to github using command line
 5) git push -f github master
 
 6) finished!
+
+https://www.youtube.com/watch?v=WWpyLfKUHVY
