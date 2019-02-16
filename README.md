@@ -15,4 +15,4 @@ Steps to upload projects to github using command line
 
 6) finished!
 
-https://www.youtube.com/watch?v=WWpyLfKUHVY
+7) Upload your projects to github ====> https://www.youtube.com/watch?v=WWpyLfKUHVY
